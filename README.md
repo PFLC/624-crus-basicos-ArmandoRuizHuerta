@@ -60,8 +60,18 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 ## Nota de Seguridad
 
 Esta aplicación es una demostración básica y no implementa medidas avanzadas de seguridad. Es recomendable utilizar declaraciones preparadas (prepared statements) u ORM para las interacciones con la base de datos para prevenir ataques de inyección SQL.
-
 ---
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
+
+
+
+
+Estos codigos de forms y de botones serian unos ejemplos
+![ejemploform](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/14a6d019-b8e0-4763-87fd-67551a819670)
+
+![ejemplobotonborrar](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/aa4b0d76-2381-4156-a759-d636f697e1b6)
+
+
+
 
