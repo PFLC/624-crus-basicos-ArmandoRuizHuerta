@@ -67,10 +67,15 @@ Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier 
 
 
 
-Estos codigos de forms y de botones serian unos ejemplos
+## Estos codigos de forms y de botones serian unos ejemplos
+
 ![ejemploform](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/14a6d019-b8e0-4763-87fd-67551a819670)
 
 ![ejemplobotonborrar](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/aa4b0d76-2381-4156-a759-d636f697e1b6)
+
+![ejemploformss](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/9209ffcf-35eb-4051-89d0-a4d0ce093679)
+
+![image](https://github.com/PFLC/624-crus-basicos-ArmandoRuizHuerta/assets/117055485/b1820ce3-227c-441b-8686-0b994f841139)
 
 
 
